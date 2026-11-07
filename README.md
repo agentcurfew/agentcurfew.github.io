@@ -1,7 +1,11 @@
-# agentcurfew.github.io
+<img src="https://agentcurfew.github.io/favicon.svg" alt="" width="72" height="72">
 
-The documentation site of [agentcurfew](https://github.com/DevXord/agentcurfew), served at <https://agentcurfew.github.io/>.
+# agentcurfew
 
-This repository holds no pages: [`.github/workflows/pages.yml`](.github/workflows/pages.yml) builds them once a day from the latest release of agentcurfew with `npm run site`, from its README, docs and changelog, and deploys them to GitHub Pages. Its files are kept in [`site/org-repo/`](https://github.com/DevXord/agentcurfew/tree/main/site/org-repo) of agentcurfew; change them there.
+One security policy for the files that steer your AI coding agents: skills, MCP servers, hooks, context files and permissions. Local, no account, and it never runs what it finds.
 
-To fix a page, change the README or docs of agentcurfew. A sibling of [depcurfew.github.io](https://depcurfew.github.io/).
+- **Code:** [DevXord/agentcurfew](https://github.com/DevXord/agentcurfew)
+- **Docs:** [agentcurfew.github.io](https://agentcurfew.github.io/)
+- **npm:** [agentcurfew](https://www.npmjs.com/package/agentcurfew)
+
+A sibling of [depcurfew](https://depcurfew.github.io/): depcurfew guards the packages that people and agents install, agentcurfew guards the files that steer the agent.
